@@ -1,4 +1,4 @@
-// Toggle Dark/Light Mode
+// Toggle Dark/Light Mode in the profile
 const modeToggle = document.getElementById('mode-toggle');
 const body = document.body;
 
