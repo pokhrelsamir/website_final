@@ -1,3 +1,4 @@
+// Website theme toggle button addition
 // Toggle Dark/Light Mode in the profile
 const modeToggle = document.getElementById('mode-toggle');
 const body = document.body;
